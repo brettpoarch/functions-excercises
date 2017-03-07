@@ -1,0 +1,1 @@
+complete functions from excercises templates
